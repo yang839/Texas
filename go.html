@@ -1,0 +1,18 @@
+<html>
+<body>
+    <p style="background:transparent">
+    <dev>
+        <input type="button" value="GoHall" onclick="onClick()"/>
+    </dev>
+</body>
+<script>
+    function onClick () {
+        // 这里的 parent 其实就是外部的 window
+        // 这样一来就可以访问到定义在 cc 的函数了
+        //parent.cc.TestCode();
+        // 如果 TestCode 是定义在 window 上，则
+        //parent.TestCode();
+        parent['H5GameEvent'] && parent['H5GameEvent']('H5Game_Leave');
+    }
+</script>
+</html>
