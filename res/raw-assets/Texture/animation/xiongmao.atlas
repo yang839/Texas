@@ -1,0 +1,97 @@
+
+xiongmao.png
+size: 734,373
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiuhu
+  rotate: false
+  xy: 248, 6
+  size: 143, 127
+  orig: 143, 127
+  offset: 0, 0
+  index: -1
+peishi
+  rotate: false
+  xy: 393, 37
+  size: 152, 159
+  orig: 152, 159
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 118
+  size: 253, 224
+  orig: 253, 224
+  offset: 0, 0
+  index: -1
+shou1
+  rotate: false
+  xy: 633, 45
+  size: 73, 69
+  orig: 75, 71
+  offset: 1, 1
+  index: -1
+shou2
+  rotate: false
+  xy: 321, 140
+  size: 44, 56
+  orig: 46, 58
+  offset: 1, 1
+  index: -1
+shou3
+  rotate: true
+  xy: 2, 2
+  size: 114, 101
+  orig: 116, 103
+  offset: 1, 1
+  index: -1
+shou4
+  rotate: true
+  xy: 105, 4
+  size: 112, 141
+  orig: 113, 141
+  offset: 0, 0
+  index: -1
+shui1
+  rotate: true
+  xy: 584, 271
+  size: 100, 148
+  orig: 100, 148
+  offset: 0, 0
+  index: -1
+shui2
+  rotate: false
+  xy: 547, 23
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+tou1
+  rotate: true
+  xy: 228, 135
+  size: 236, 91
+  orig: 236, 91
+  offset: 0, 0
+  index: -1
+tou2
+  rotate: true
+  xy: 584, 116
+  size: 153, 139
+  orig: 153, 139
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: true
+  xy: 321, 198
+  size: 173, 126
+  orig: 173, 126
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: false
+  xy: 449, 215
+  size: 133, 156
+  orig: 133, 156
+  offset: 0, 0
+  index: -1

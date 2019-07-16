@@ -1,0 +1,69 @@
+
+huli.png
+size: 746,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bei
+  rotate: true
+  xy: 668, 2
+  size: 67, 59
+  orig: 67, 59
+  offset: 0, 0
+  index: -1
+dai
+  rotate: false
+  xy: 537, 9
+  size: 69, 31
+  orig: 69, 31
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 668, 71
+  size: 76, 57
+  orig: 78, 59
+  offset: 1, 1
+  index: -1
+shenti1
+  rotate: false
+  xy: 2, 5
+  size: 158, 123
+  orig: 158, 123
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 449, 6
+  size: 86, 122
+  orig: 86, 122
+  offset: 0, 0
+  index: -1
+weiba1
+  rotate: false
+  xy: 162, 10
+  size: 140, 118
+  orig: 140, 118
+  offset: 0, 0
+  index: -1
+weiba2
+  rotate: false
+  xy: 537, 42
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+weiba3
+  rotate: false
+  xy: 304, 22
+  size: 143, 106
+  orig: 143, 106
+  offset: 0, 0
+  index: -1
+xianglian
+  rotate: false
+  xy: 606, 42
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
